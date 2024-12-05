@@ -1,0 +1,7 @@
+<resources>
+    <!-- Shape appearance cho hình tròn -->
+    <style name="ShapeAppearance.MyRoundedImage" parent="Widget.MaterialComponents.ShapeableImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
